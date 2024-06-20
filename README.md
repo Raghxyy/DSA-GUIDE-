@@ -34,7 +34,7 @@ https://github.com/Raghxyy/DSA-GUIDE-.git
 Navigate to the directory:
 
 ```bash
-cd dsa-guide
+cd DSA-GUIDE-
 ```
 
 ## 🤝 Contributing
